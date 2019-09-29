@@ -24,7 +24,6 @@ const StyledOptions = styled.div`
 	margin-top: 30px;
 `
 
-
 const StyledOption = styled(NavLink)`
 	background-color: white;
 	margin-bottom: 20px;
